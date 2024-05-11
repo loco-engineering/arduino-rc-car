@@ -2,7 +2,7 @@
 
 License: Attribution-NonCommercial 4.0 International
 
-For commercial use, please contact us at hey@toys.engineering with a description of your project and how you plan to use this project.
+For commercial use, please contact us at hey@loco.engineering with a description of your project and how you plan to use this project.
 
 ## Getting Started
 
